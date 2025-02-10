@@ -13,7 +13,7 @@ _G.Settings = {
 
 	Main = {
 		["Auto Farm Level"] = false,
-		["Fast Auto Farm Level"] = false,
+		["Fast Auto Farm Level"] = true,
 
 		--[Mob Aura]
 
